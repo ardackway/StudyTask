@@ -1,0 +1,11 @@
+.vs/    
+HommeworkGiTwork.slnx
+HommeworkGiTwork.vcxproj
+HommeworkGiTwork.vcxproj.filters
+HommeworkGiTwork.vcxproj.user
+HommeworkGiTwork/
+*.sass
+bin/
+admin/
+config/
+x64/
